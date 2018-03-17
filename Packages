@@ -286,21 +286,23 @@ Description: Bring back the look of the iOS 9 Music app.
 Author: AppleBetas
 Name: Melody Beta
 
-Package: pw.virulent.execubokeh
-Depiction: https://repo.applebetas.co/depiction/pw.virulent.execubokeh/
-Version: 1.1~tim-cook
+Package: com.ioscreatix.maizepreview
+Name: Maize (Preview)
+Version: 1.2.6
 Architecture: iphoneos-arm
+Description: New control Center IOS 11. Available on IOS 10 enjoy this beta.
 Maintainer: GotKrypto76
 Installed-Size: 216
-Depends: mobilesubstrate, firmware (>= 7.0), wget
-Filename: deb/pw.virulent.execubokeh_1.1tim-cook_iphoneos-arm.deb
+Filename: deb/com.ioscreatix.maizepreview_1.2.6_iphoneos-arm.deb
 Size: 115276
 MD5sum: 9a740945f1357fe27191cf56302076a2
 SHA1: cf22cadae9bec60c0ad76bf6621c0089d9cbe60c
 SHA256: 6c2ca8203b1198f4b9f5412cece18ac81f8179db83dce5abef879a7ffb242d89
 Section: Tweaks
 Priority: optional
+Depends: firmware (>= 10.0), mobilesubstrate, com.a3tweaks.flipswitch
 Description: Executives float around in your dynamic wallpapers.
 Author: GotKrypto76
 Name: ExecuBokeh
+
 
